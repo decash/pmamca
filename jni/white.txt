@@ -1,0 +1,4 @@
+MODULE=[heap]
+MODULE=/dalvik-heap
+MODULE=/dalvik-heap/
+DISPLAY_MEMORY_DUMP_LINE_COUNT=3
